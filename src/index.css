@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: #18212f;
+}
+
+.background {
+  background-image: url("public/Home-bg-image.png");
+  background-position: right;
+  background-repeat: no-repeat;
+}
